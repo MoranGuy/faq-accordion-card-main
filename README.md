@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Frontendmentor.io solution URL](https://www.frontendmentor.io/solutions/responsive-faq-card-using-mobilefirst-approach-oS22pl5Hk)
 - Live Site URL: [Live site URL](https://moranguy.github.io/faq-accordion-card-main/)
 
 ## My process
